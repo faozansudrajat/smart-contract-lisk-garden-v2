@@ -1,0 +1,4 @@
+Default Address yang sudah di-deploy:
+
+LiskGardenV2 address: 0x7280D693392257918d9c9079aECA41Cd682979D2
+GardenToken address: 0xE58089054dEcDF320201FFbeC64D6220b9ac9FD0
